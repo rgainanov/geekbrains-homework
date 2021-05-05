@@ -10,8 +10,20 @@ public class MainApp {
 //        triangleBalnk(size);
 //        squaren2(size);
 //        lastFigure(size);
-        christmasTree();
+//        christmasTree();
+//        christmasTreeNew();
     }
+
+//    public static void christmasTreeNew() {
+//        int length = 14;
+//        int width = 9;
+//
+//        for (int i = 0; i < length; i++) {
+//            for (int j = 0; j < width; j++) {
+//                if (Math.abs)
+//            }
+//        }
+//    }
 
     public static void christmasTree() {
         int size = 5;
